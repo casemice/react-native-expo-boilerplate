@@ -5,3 +5,6 @@ coverage
 
 # Storybook
 storybook/storyLoader.js
+
+# Test Coverage
+coverage
