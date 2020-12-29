@@ -1,4 +1,4 @@
-This project was set up with following [React Native Expo Setup](https://github.com/casemice/react-native-expo-setup).
+This project was set up with following [React Native Expo Setup](https://github.com/casemice/developer-guidelines/blob/main/react-native-expo-setup.md).
 
 ## Available Scripts
 
